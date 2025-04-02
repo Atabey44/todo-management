@@ -9,10 +9,10 @@ This is a **Todo Management** REST API built with **Spring Boot**...
 
 ## <span style="color:#f39c12">Tech Stack</span>
 - **Java 11**
-- **Spring Boot 2.x**
+- **Spring Boot **
 - **Spring Security** for authentication and authorization
 - **JWT** for token-based authentication
-- **H2 Database** (or PostgreSQL if preferred)
+- **PostgreSQL**
 
 ## <span style="color:#e74c3c">API Endpoints</span>
 
